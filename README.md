@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Frederick (he/him). I am a trained political scientist and data scientist. Currently, I am studying [Computational Social Science]([url](https://www.uc3m.es/master/computational-social-science#home)) at Universidad Carlos III in Madrid.
+
+Programming languages:
+
+
 <!--
 **frederickps/frederickps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
