@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-My name is Frederick (he/him). I am a trained political scientist and data scientist. Currently, I am studying [Computational Social Science]([url](https://www.uc3m.es/master/computational-social-science#home)) at Universidad Carlos III in Madrid.
+My name is Frederick (he/him). I am a trained political scientist and data scientist. Currently, I am studying Computational Social Science at Universidad Carlos III in Madrid.
 
 Programming languages:
+https://camo.githubusercontent.com/acfbb0371939c1b60f018d6bec99a1d597bc9d7c8db41055fd3e9a6584954dc7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d522d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d52266c6f676f436f6c6f723d776869746526636f6c6f723d323736444333
 
 
 <!--
