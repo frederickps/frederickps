@@ -3,8 +3,8 @@
 My name is Frederick (he/him). I am a trained political scientist and data scientist. Currently, I am studying Computational Social Science at Universidad Carlos III in Madrid.
 
 ## Programming languages
-R
-SQL
+R |
+SQL |
 Python
 
 # Background
