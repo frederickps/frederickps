@@ -2,6 +2,8 @@
 
 My name is Frederick (he/him). I am a trained political scientist and data scientist. Currently, I am studying Computational Social Science at Universidad Carlos III in Madrid.
 
+Take a look at a sample of my class work and personal projects.
+
 ## Programming languages
 R |
 SQL |
